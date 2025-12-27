@@ -23,3 +23,4 @@ COMMENT ON COLUMN M_NOTIFICATIONS.FROM_FLG IS '送信元フラグ。有効の場
 COMMENT ON COLUMN M_NOTIFICATIONS.created_timestamp IS '登録日時';
 COMMENT ON COLUMN M_NOTIFICATIONS.created_by IS '登録者コード';
 COMMENT ON COLUMN M_NOTIFICATIONS.updated_timestamp IS '更新日時';
+-- comment
